@@ -1,0 +1,1 @@
+[{"birthday":"2023-06-01","kind":"HAMSTER","name":"Хома","id":"1","commands":"Реагирует на голос"},{"kind":"DONKEY","name":"Барон","id":"2","commands":"Отзывется на имя"}]
